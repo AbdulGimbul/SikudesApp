@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">SikudesApp</string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+    <string name="login">Login\nSikudesApp</string>
+    <string name="register">Daftarkan</string>
+    <string name="masukkan_password">Masukkan password</string>
+    <string name="masukkan_email">Masukkan email</string>
+    <string name="masukkan_username">Masukkan username</string>
+    <string name="masukkan_nama_lengkap">Masukkan nama lengkap</string>
+    <string name="create_new_account">Buat Akun Baru</string>
+    <string name="sign_up_here">Daftar disini!</string>
+    <string name="dont_have_an_account">Belum mempunyai akun?</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="log_out">Log Out</string>
+    <string name="todo">TODO</string>
+    <string name="muhamad_abdul_aziz">Muhamad Abdul Aziz</string>
+    <string name="nim">20170810069</string>
+    <string name="profil_desa">Profil Desa</string>
+    <string name="alamat">Masukkan Alamat</string>
+    <string name="nik">Masukkan NIK</string>
+    <string name="lahir">Tempat Lahir</string>
+    <string name="tgl_lahir">Tanggal Lahir</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="agama">Agama</string>
+    <string name="status">Status (Menikah, dll.)</string>
+    <string name="pekerjaan">Pekerjaan</string>
+    <string name="goldar">Golongan Darah</string>
+    <string name="no_kk">Masukkan No. KK</string>
+    <string name="search">cari</string>
+    <string name="judul">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="tab_laki">Laki-laki</string>
+    <string name="tab_perempuan">Perempuan</string>
+    <string name="tab_menikah">Menikah</string>
+    <string name="tab_cerai">Cerai</string>
+    <string name="tab_cerai_mati">Cerai Mati</string>
+    <string name="tab_lajang">Lajang</string>
+    <string name="tab_goldara">A</string>
+    <string name="tab_goldarab">AB</string>
+    <string name="tab_goldarb">B</string>
+    <string name="tab_goldaro">O</string>
+    <string name="tab_wiraswasta">Wiraswasta</string>
+    <string name="tab_guru">Guru</string>
+    <string name="tab_petani">Petani</string>
+    <string name="tab_karyawan">Karyawan</string>
+    <string name="tab_pns">PNS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_text">Desa Kutamandarakan didirikan pada tahun 09 September 1982, yang mana sebelumnya desa Kutamandarakan merupakan sebuah desa pemekeran dari desa Kutaraja yang bertempatkan di dusun Wage desa Kutaraja kala itu, yang mana kala itu desa Kutamandarakan di awal periode pertama dipimpin oleh kepala desa  Bapa Moch. Satria. \nDesa Kutamandarakan merupakan desa pemekaran dari desa Kutaraja yang mana desa Kutaraja terletak disebelah utara desa Kutamandarakan, dan pada waktu itu desa Kutamandarakan masih termasuk kedalam kecamatan Lebakwangi, namun dengan seiiringnya waktu kini desa Kutamandarakan berpindah kedalam kecamatan Maleber.</string>
+    <string name="dummy_value">Desa Kutamandarakan</string>
+    <string name="lokasi_desa">Lokasi Desa</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="jabar">Jawa Barat</string>
+    <string name="kabupaten">Kabupaten</string>
+    <string name="kuningan">Kuningan</string>
+    <string name="kecamatan">Kecamatan</string>
+    <string name="maleber">Maleber</string>
+    <string name="desa">Desa</string>
+    <string name="kutamandarakan">Kutamandarakan</string>
+    <string name="garis_lintang">Garis Lintang</string>
+    <string name="koordinat">-7.025896, 108.556681</string>
+    <string name="date">tanggal</string>
+    <string name="set_one_time_alarm">Terapkan</string>
+    <string name="repeating_alarm">Pengingat Agenda Rutin Harian</string>
+    <string name="one_time_alarm">Pengingat Agenda</string>
+
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="alarm_messsage">Keterangan atau nama agenda</string>
+    <string name="set_repeating_alarm">Terapkan Pengingat Harian</string>
+    <string name="cancel_alarm">Batalkan Alarm</string>
+    <string name="alarm_time">Waktu Alarm</string>
+    <string name="pendidikan">Pendidikan</string>
+    <string name="nama">Nama</string>
+    <string name="tmt">TMT</string>
+    <string name="jabatan">Jabatan</string>
+    <string name="jumlah">jumlah</string>
+    <string name="or">atau</string>
+    <string name="penduduk"><p><u>Masuk sebagai penduduk!</u></p></string>
+
+    <string-array name="status">
+        <item>Lajang</item>
+        <item>Menikah</item>
+        <item>Cerai</item>
+        <item>Cerai Mati</item>
+    </string-array>
+</resources>

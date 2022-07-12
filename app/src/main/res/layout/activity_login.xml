@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/login"
+            android:gravity="center"
+            android:textColor="@android:color/holo_green_dark"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="50dp"/>
+
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/login_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="7dp"
+            android:padding="5dp"
+            app:met_floatingLabel="normal"
+            android:inputType="textEmailAddress"
+            android:hint="@string/masukkan_email"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/login_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            android:padding="5dp"
+            app:met_floatingLabel="normal"
+            android:inputType="textPassword"
+            android:hint="@string/masukkan_password"/>
+
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Login"
+            android:textAllCaps="false" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dont_have_an_account"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/btnToRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sign_up_here"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:lines="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/or"
+        android:clickable="true"
+        android:lines="1" />
+
+    <TextView
+        android:id="@+id/btnToPenduduk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/penduduk"
+        android:clickable="true"
+        android:textStyle="bold"
+        android:lines="1" />
+
+</LinearLayout>

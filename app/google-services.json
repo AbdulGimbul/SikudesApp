@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839929418691",
+    "firebase_url": "https://kutamandarakanapp.firebaseio.com",
+    "project_id": "kutamandarakanapp",
+    "storage_bucket": "kutamandarakanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839929418691:android:c9404aafdee4a9fc1ce376",
+        "android_client_info": {
+          "package_name": "com.kerjapraktik.group.kutamandarakanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839929418691-6307ti8i07r296n95hmnl83gcr36cvst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZg2HTPlzQJ16FtM5-BtdQZ2tQ5DZaa5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839929418691-6307ti8i07r296n95hmnl83gcr36cvst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
